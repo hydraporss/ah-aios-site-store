@@ -1,2 +1,3 @@
-# ah-aios-site-store
-Website deployed with GitHub Deploy
+# AH AIOS Skills
+
+Static skills store. Edit `catalog.js` (Stripe links, prices, skills), then deploy with GitHub Deploy.
